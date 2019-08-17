@@ -22,8 +22,15 @@ h1 {
      color: #d21034;
  }
  
-div { 
+.container { 
      width: 1024px; 
      margin: 0 auto; 
  }
-
+#contact-info { 
+    float: left;
+    width: 40%;
+}
+#main-bio { 
+    width: 60%;
+    float: left;
+}
