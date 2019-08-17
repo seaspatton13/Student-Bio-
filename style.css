@@ -17,5 +17,13 @@ h1 {
     text-align: center;
     padding: 20px;
     padding: 20px;
-
 } 
+ a { 
+     color: #d21034;
+ }
+ 
+div { 
+     width: 1024px; 
+     margin: 0 auto; 
+ }
+ 
